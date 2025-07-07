@@ -2,4 +2,5 @@
 # Autor: Leonardo Stürmer
 # 07/07/2025
 
-print('Programa Python')
+print('Programa em Python')
+print('------------------')
